@@ -1,7 +1,7 @@
 # Project 4 - Data Visualization
 
 ## Overview
-
+This project was completed as part of the DecodeLabs Data Analytics Internship Program (Project 4) 
 This project focuses on visualizing an e-commerce dataset using Python and Matplotlib. Different charts were created to identify trends, patterns, and business insights from customer order data.
 
 ## Objectives
